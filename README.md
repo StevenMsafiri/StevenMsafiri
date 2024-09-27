@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steven Msafiri
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... { HTML5, Css , Javascript }
-- 💞️ I’m looking to collaborate on ...HTML5, Css Js
+- 🌱 I’m currently learning ... PYTHON 
+- 💞️ I’m looking to collaborate on ...{ HTML5, Css , Python }
 - 📫 How to reach me ...@ianleonardmk47@gmail.com
 
 <!---
